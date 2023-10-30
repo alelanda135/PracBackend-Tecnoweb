@@ -1,0 +1,10 @@
+###POST 
+POST http://localhost:4000/login
+Content-Type: application/json
+Accept: application/json
+
+{
+  "username": "user1",
+  "password": "con1"
+}
+
